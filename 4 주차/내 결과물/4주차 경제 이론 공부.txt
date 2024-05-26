@@ -1,0 +1,55 @@
+1. 컨텐츠 정리 
+
+
+Ex1) rsi 및 macd를 활용해서 둘 다 매수 시그널이 나올때 매수를 진행하고, 둘 중 하나라도 매도 시그널이 나오면 매도를 진행한다.
+Ex2) 변동성 돌파 전략을 이용하는데, 일봉이 아니라 30분봉 혹은 1시간봉을 이용한다
+Ex3) 이동평균선 5가 이동평균선 20을 상향돌파하면 매수하고 하향돌파하면 매도한다
+
+혹시 보조지표를 직접 만들기 힘든 분들은 ta 라이브러리를 활용하셔도 됩니다! Ta 라이브러리는 모든 보조지표가 구현 되어있어서 데이터값만 잘 넣어주면 알아서 rsi,macd,bollinger ..이 생성됩니다. 이 예제도 오늘 올려드릴 파일에 나와있습니다! 
+가장 마지막 부분에 있을거에요
+
+코드 
+https://cafe.naver.com/ufic/1909?boardType=L
+
+백테스팅 블로그 
+https://m.blog.naver.com/stochastic73/222067881093
+
+<블로그>
+macd rsi
+https://youtu.be/r8pU-8l1KPU
+
+<유튜브 영상들>
+
+변동성 돌파전략
+https://youtu.be/n6FTYNRjyuY
+
+백테스팅 - 골든크로스
+https://youtu.be/XNjY7p_0Xm4
+
+주식자동화-조코딩
+https://youtu.be/5bTxyBeOVkA
+
+
+
+2. 용어 개념 정리 
+
+RSI 지표 -> 과매수 구간, 과매도 구간 포착 지표 ( 세션 자료 참고)
+
+MACD -> Moving Average Convergence Divergence
+
+MACD의 원리는 장기 이동평균선과 단기이동평균선이 서로 멀어지게 되면(divergence) 
+언젠가는 다시 가까워져(convergence) 어느 시점에서 서로 교차하게 된다는 성질을 이용하여
+두 개의 이동평균선이 멀어지게 되는 가장 큰 시점을 찾고자 하는 것이다.
+
+이동평균선이란? 
+자세한 설명 
+https://alphasquare.oopy.io/board/technical-indicator/sma
+
+MACD란
+자세한 설명 
+https://alphasquare.oopy.io/board/technical-indicator/macd
+
+모멘텀이란 
+주가의 변화량 : (오늘 종가) - (n일 전 종가)
+
+

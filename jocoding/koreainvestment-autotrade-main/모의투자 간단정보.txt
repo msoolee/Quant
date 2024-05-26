@@ -1,0 +1,9 @@
+app key : PS1684F7bZW7zwhwFCnsn7ZyaUTDEMYfDoXT
+
+app seceret : gg+6wntY6Yop5E50nvXeX1m7ckl+H/4YwgLLhuTQMlI4cDQUHG/5ZbZ3Sc2wOHQ1XQJE/TgEBc8ezRpRMpKokT0GrhSkqTeXUsmsE2tzZP8GxFBUXcBRy87RGz1MMa5ffDWqVPt+gG5Wu5LIC2H7rmFaya/g1DJJSkto4styILVieo+W8/s=
+
+웹 후크 url : https://discord.com/api/webhooks/1072756771304767538/X2pSMzSADNhBjwE55btoAHbNEqHzQiEr0lkcsslwqzuNw4SiHYN4YN0-mPvvWCstTAw_
+
+모의 투자 계좌번호
+국내 : 50078082
+국외 : 50078082
